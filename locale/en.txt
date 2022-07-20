@@ -1,0 +1,121 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_D274BA02_C4B3_4130_41BB_3B988CDA1C71_mobile.url = generic.html
+WebFrame_D274BA02_C4B3_4130_41BB_3B988CDA1C71.url = generic.html
+WebFrame_B54EFDB3_BBB5_A104_41E4_378FBB41A5E3.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443.5116370310582!2d106.7014203515173!3d-6.179450136048886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f8353ba8b85b%3A0xd72e72f6ef5c0167!2sJl.%20Tanah%20Putih%20Permai%2C%20Ketapang%2C%20Kec.%20Cipondoh%2C%20Kota%20Tangerang%2C%20Banten%2015147!5e0!3m2!1sid!2sid!4v1658333906811!5m2!1sid!2sid
+WebFrame_B54EFDB3_BBB5_A104_41E4_378FBB41A5E3_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443.5116370310582!2d106.7014203515173!3d-6.179450136048886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f8353ba8b85b%3A0xd72e72f6ef5c0167!2sJl.%20Tanah%20Putih%20Permai%2C%20Ketapang%2C%20Kec.%20Cipondoh%2C%20Kota%20Tangerang%2C%20Banten%2015147!5e0!3m2!1sid!2sid!4v1658333906811!5m2!1sid!2sid
+
+## Media
+
+### Audio
+audiores_0E010E4A_1C59_F5D8_418F_5165B110B697.mp3Url = media/audio_0C7FA6FF_1C6B_92B8_4199_B45296D66882_en.mp3
+audiores_0E010E4A_1C59_F5D8_418F_5165B110B697.oggUrl = media/audio_0C7FA6FF_1C6B_92B8_4199_B45296D66882_en.ogg
+
+### Image
+imlevel_09D68FF0_1CA6_92C8_41B8_D20FD3B281A2.url = media/zoomImage_0D114D7D_1C69_97B8_419D_12279584202A_en_0_0.jpeg
+imlevel_09D6EFF0_1CA6_92C8_4182_4F94F08C7853.url = media/zoomImage_0D114D7D_1C69_97B8_419D_12279584202A_en_0_1.jpeg
+imlevel_09D7400C_1CA6_8D58_41B2_8CFF5A9B9C25.url = media/zoomImage_0D16A763_1C6A_B3C8_41AD_48723E61933B_en_0_0.jpeg
+imlevel_09D7A00C_1CA6_8D58_41B3_03C553935C35.url = media/zoomImage_0D16A763_1C6A_B3C8_41AD_48723E61933B_en_0_1.jpeg
+imlevel_09D72FFC_1CA6_92B8_4185_FD0814DD0814.url = media/zoomImage_0D25F36A_1C6A_93D9_41B0_E842B89A222F_en_0_0.jpeg
+imlevel_09D63FFC_1CA6_92B8_41B9_72D79EBD2CA0.url = media/zoomImage_0D25F36A_1C6A_93D9_41B0_E842B89A222F_en_0_1.jpeg
+imlevel_09D8803F_1CA6_8DB8_41AC_16AD5763E53A.url = media/zoomImage_0DAD0671_1C69_B5C8_41BB_47D03F474839_en_0_0.jpeg
+imlevel_09D7F03F_1CA6_8DB8_41B5_A411BB9E0E70.url = media/zoomImage_0DAD0671_1C69_B5C8_41BB_47D03F474839_en_0_1.jpeg
+imlevel_09D49F97_1CA6_9348_41A6_EEFEA705CE4C.url = media/zoomImage_128AA91D_1C67_FF77_41AD_11F2DCA12025_en_0_0.jpeg
+imlevel_09D3EF98_1CA6_9378_419B_2FA98648D42C.url = media/zoomImage_128AA91D_1C67_FF77_41AD_11F2DCA12025_en_0_1.jpeg
+imlevel_09D66FDB_1CA6_92F8_41B9_188985B38C82.url = media/zoomImage_128EA839_1C67_7DB8_41AD_F100B9AD2D08_en_0_0.jpeg
+imlevel_09D57FDB_1CA6_92F8_41B5_F8AD82A0114E.url = media/zoomImage_128EA839_1C67_7DB8_41AD_F100B9AD2D08_en_0_1.jpeg
+imlevel_09D5CFCA_1CA6_92D8_41BB_22F5F6AF07F9.url = media/zoomImage_12A19BFC_1C66_92B8_41AE_4D9A92CB549A_en_0_0.jpeg
+imlevel_09D62FCA_1CA6_92D8_41B1_B464CF93E4B6.url = media/zoomImage_12A19BFC_1C66_92B8_41AE_4D9A92CB549A_en_0_1.jpeg
+imlevel_09D50FA8_1CA6_9358_41B4_078867A9E05A.url = media/zoomImage_12B74CC7_1C67_96C8_41B9_F24ACA55C6E0_en_0_0.jpeg
+imlevel_09D56FA8_1CA6_9358_41A0_024F4ABD67CF.url = media/zoomImage_12B74CC7_1C67_96C8_41B9_F24ACA55C6E0_en_0_1.jpeg
+imlevel_09D3CF77_1CA6_93C8_41B8_7E6C7679B394.url = media/zoomImage_12BC3EEC_1C67_92D8_419A_72198CBB0A4D_en_0_0.jpeg
+imlevel_09D2DF77_1CA6_93C8_41AD_8CAB9B73E088.url = media/zoomImage_12BC3EEC_1C67_92D8_419A_72198CBB0A4D_en_0_1.jpeg
+imlevel_09D9004F_1CA6_8DD8_4199_FC25426DB141.url = media/zoomImage_133EEA3E_1C6E_9DB8_41A8_B44443F4E738_en_0_0.jpeg
+imlevel_09D9604F_1CA6_8DD8_41AA_72FA90E7A40D.url = media/zoomImage_133EEA3E_1C6E_9DB8_41A8_B44443F4E738_en_0_1.jpeg
+imlevel_09D55FBA_1CA6_92B8_41AD_9FE03345C722.url = media/zoomImage_1362AF21_1C66_B348_4187_CDFB6D52099E_en_0_0.jpeg
+imlevel_09D4AFBA_1CA6_92B8_41B4_C757F053A054.url = media/zoomImage_1362AF21_1C66_B348_4187_CDFB6D52099E_en_0_1.jpeg
+imlevel_09D3AF66_1CA6_93C8_41A0_6AA74EAEC600.url = media/zoomImage_1362E518_1C67_9778_41AD_20FCD7B8CD56_en_0_0.jpeg
+imlevel_09D39F66_1CA6_93C8_41A8_8BE706A1229B.url = media/zoomImage_1362E518_1C67_9778_41AD_20FCD7B8CD56_en_0_1.jpeg
+imlevel_09D30F55_1CA6_93C8_4190_0FF06F871CF0.url = media/zoomImage_1367B146_1C67_8FC8_41A4_22D5C5DBC568_en_0_0.jpeg
+imlevel_09D21F55_1CA6_93C8_41A7_1CA3DC007E64.url = media/zoomImage_1367B146_1C67_8FC8_41A4_22D5C5DBC568_en_0_1.jpeg
+imlevel_09D47F87_1CA6_9348_419F_F518C07DC65A.url = media/zoomImage_1378B144_1C66_8FC8_41B8_27A9FDF36DAE_en_0_0.jpeg
+imlevel_09D45F87_1CA6_9348_41A2_E59C142A6EA8.url = media/zoomImage_1378B144_1C66_8FC8_41B8_27A9FDF36DAE_en_0_1.jpeg
+imlevel_09D8402E_1CA6_8D58_419A_510714AD413F.url = media/zoomImage_13E84001_1C69_8D48_41A6_7593701749EA_en_0_0.jpeg
+imlevel_09D8A02E_1CA6_8D58_41A6_8888F779A3F6.url = media/zoomImage_13E84001_1C69_8D48_41A6_7593701749EA_en_0_1.jpeg
+imlevel_09D7C01D_1CA6_8D78_4195_5D5C6B429B5E.url = media/zoomImage_13EEA876_1C69_BDC8_41B1_389904F3D2F2_en_0_0.jpeg
+imlevel_09D7301D_1CA6_8D78_41B1_F42E7DA7A266.url = media/zoomImage_13EEA876_1C69_BDC8_41B1_389904F3D2F2_en_0_1.jpeg
+imlevel_09D9C060_1CA6_8DC8_41B1_0170D7339780.url = media/zoomImage_13F38185_1C6E_8F48_41B6_C710106A6730_en_0_0.jpeg
+imlevel_09D93060_1CA6_8DC8_41A2_A70CFE4B7985.url = media/zoomImage_13F38185_1C6E_8F48_41B6_C710106A6730_en_0_1.jpeg
+imlevel_09DA7070_1CA6_8DC8_410E_DBA8B19B7800.url = media/zoomImage_13FBD769_1C69_73DB_41BB_0744C9736935_en_0_0.jpeg
+imlevel_09DA5070_1CA6_8DC8_41AA_AAA29D581EF4.url = media/zoomImage_13FBD769_1C69_73DB_41BB_0744C9736935_en_0_1.jpeg
+
+### Popup Image
+
+### Title
+panorama_B1E178EE_BACC_EF1F_41C7_9C1C2EB44028.label = blank white
+
+## Skin
+
+### Button
+Button_CBDAF439_C4B7_4150_41E2_960064B3D865.label = Open Invitation
+Button_CBDAF439_C4B7_4150_41E2_960064B3D865_mobile.label = Open Invitation
+
+### Image
+Image_0618369C_1795_4155_41B0_4F2F8B5D76A3.url = skin/Image_0618369C_1795_4155_41B0_4F2F8B5D76A3_en.jpeg
+Image_0623369E_1795_4155_41B1_D3D8CD6553EE.url = skin/Image_0623369E_1795_4155_41B1_D3D8CD6553EE_en.jpeg
+Image_0623669D_1795_4157_41B3_106A7BFDA0D7.url = skin/Image_0623669D_1795_4157_41B3_106A7BFDA0D7_en.jpeg
+Image_0656E1E0_1797_42EE_419D_724DE4AF52B3.url = skin/Image_0656E1E0_1797_42EE_419D_724DE4AF52B3_en.jpeg
+Image_065CB1E1_1797_42EE_4195_4AE943C43185.url = skin/Image_065CB1E1_1797_42EE_4195_4AE943C43185_en.jpeg
+Image_065FF1E1_1797_42EE_4199_42EF9685FC83.url = skin/Image_065FF1E1_1797_42EE_4199_42EF9685FC83_en.jpeg
+Image_06F6CCCD_1795_C137_41A6_C39D08B052F6.url = skin/Image_06F6CCCD_1795_C137_41A6_C39D08B052F6_en.jpeg
+Image_06F82CCF_1795_C133_419F_F1117D8E4FF7.url = skin/Image_06F82CCF_1795_C133_419F_F1117D8E4FF7_en.jpeg
+Image_06F9FCCF_1795_C133_418C_662D141EE10D.url = skin/Image_06F9FCCF_1795_C133_418C_662D141EE10D_en.jpeg
+Image_B54E67CE_BBB7_E11C_41CA_A1B6D1F7CDD0.url = skin/Image_B54E67CE_BBB7_E11C_41CA_A1B6D1F7CDD0_en.png
+Image_B54E67CE_BBB7_E11C_41CA_A1B6D1F7CDD0_mobile.url = skin/Image_B54E67CE_BBB7_E11C_41CA_A1B6D1F7CDD0_mobile_en.png
+Image_B559DF1E_BBB7_A13F_41DF_082E1029090D.url = skin/Image_B559DF1E_BBB7_A13F_41DF_082E1029090D_en.png
+Image_B559DF1E_BBB7_A13F_41DF_082E1029090D_mobile.url = skin/Image_B559DF1E_BBB7_A13F_41DF_082E1029090D_mobile_en.png
+Image_B5A99617_BBB4_A30D_41E6_0E4622D3F2FC.url = skin/Image_B5A99617_BBB4_A30D_41E6_0E4622D3F2FC_en.png
+Image_B5A99617_BBB4_A30D_41E6_0E4622D3F2FC_mobile.url = skin/Image_B5A99617_BBB4_A30D_41E6_0E4622D3F2FC_mobile_en.png
+Image_B5BAF7E8_BBB4_A104_41D5_9EBEEE61BB57.url = skin/Image_B5BAF7E8_BBB4_A104_41D5_9EBEEE61BB57_en.png
+Image_B5BAF7E8_BBB4_A104_41D5_9EBEEE61BB57_mobile.url = skin/Image_B5BAF7E8_BBB4_A104_41D5_9EBEEE61BB57_mobile_en.png
+Image_B5D2704A_BBBD_FF07_41E3_8E25C4CD2242.url = skin/Image_B5D2704A_BBBD_FF07_41E3_8E25C4CD2242_en.jpg
+Image_B5D2704A_BBBD_FF07_41E3_8E25C4CD2242_mobile.url = skin/Image_B5D2704A_BBBD_FF07_41E3_8E25C4CD2242_mobile_en.jpg
+Image_B5F923DD_BBB5_A13C_41C3_62250F230677.url = skin/Image_B5F923DD_BBB5_A13C_41C3_62250F230677_en.png
+Image_B5F923DD_BBB5_A13C_41C3_62250F230677_mobile.url = skin/Image_B5F923DD_BBB5_A13C_41C3_62250F230677_mobile_en.png
+Image_CBC510C2_C4B1_4130_41C8_E84088C1F48D.url = skin/Image_CBC510C2_C4B1_4130_41C8_E84088C1F48D_en.jpeg
+Image_CBC510C2_C4B1_4130_41C8_E84088C1F48D_mobile.url = skin/Image_CBC510C2_C4B1_4130_41C8_E84088C1F48D_mobile_en.jpeg
+Image_D256EC33_C490_C150_41D3_B0CFDE7377B1_mobile.url = skin/Image_D256EC33_C490_C150_41D3_B0CFDE7377B1_mobile_en.jpeg
+Image_D283C3B0_C491_4750_41C0_1AB9C6BFD93C_mobile.url = skin/Image_D283C3B0_C491_4750_41C0_1AB9C6BFD93C_mobile_en.jpeg
+Image_D29841AE_C491_C370_41E6_9E64F09B3E15_mobile.url = skin/Image_D29841AE_C491_C370_41E6_9E64F09B3E15_mobile_en.jpeg
+Image_D29B8E64_C490_C1F0_41D1_C75F7C5FCA79_mobile.url = skin/Image_D29B8E64_C490_C1F0_41D1_C75F7C5FCA79_mobile_en.jpeg
+Image_D2B7C961_C49F_43F0_41B3_3F9A7E79A4D3_mobile.url = skin/Image_D2B7C961_C49F_43F0_41B3_3F9A7E79A4D3_mobile_en.jpeg
+Image_D330571B_C490_CF50_41E4_BD5B95ED1EED_mobile.url = skin/Image_D330571B_C490_CF50_41E4_BD5B95ED1EED_mobile_en.jpeg
+Image_D34364C6_C491_C130_41E7_A0E77A19C6C4_mobile.url = skin/Image_D34364C6_C491_C130_41E7_A0E77A19C6C4_mobile_en.jpeg
+Image_D36F9566_C491_43F3_41E1_504B1673520F_mobile.url = skin/Image_D36F9566_C491_43F3_41E1_504B1673520F_mobile_en.jpeg
+Image_D3754FC9_C493_5F30_41DD_6B8A097080A3_mobile.url = skin/Image_D3754FC9_C493_5F30_41DD_6B8A097080A3_mobile_en.jpeg
+Image_D706FA17_C4B0_C150_41D4_56A5192DE5F9.url = skin/Image_D706FA17_C4B0_C150_41D4_56A5192DE5F9_en.jpg
+Image_D706FA17_C4B0_C150_41D4_56A5192DE5F9_mobile.url = skin/Image_D706FA17_C4B0_C150_41D4_56A5192DE5F9_mobile_en.jpg
+Image_D74B65C3_C4F3_4330_41C0_F865BFA5D8C4.url = skin/Image_D74B65C3_C4F3_4330_41C0_F865BFA5D8C4_en.jpg
+Image_D74B65C3_C4F3_4330_41C0_F865BFA5D8C4_mobile.url = skin/Image_D74B65C3_C4F3_4330_41C0_F865BFA5D8C4_mobile_en.jpg
+Image_D84F3FC1_C493_5F30_41CE_EC008164796B.url = skin/Image_D84F3FC1_C493_5F30_41CE_EC008164796B_en.png
+Image_D864F26C_C493_C1F0_41CE_07BDB1EE5C34.url = skin/Image_D864F26C_C493_C1F0_41CE_07BDB1EE5C34_en.png
+Image_D88FE4C8_C4F0_C130_41E4_13184972F687.url = skin/Image_D88FE4C8_C4F0_C130_41E4_13184972F687_en.png
+Image_DA462DB9_C4F3_4350_41D7_A4C5E5A2E228.url = skin/Image_DA462DB9_C4F3_4350_41D7_A4C5E5A2E228_en.png
+
+### Multiline Text
+HTMLText_D45AA25F_C491_C1D0_41DC_D3A61C0D2069.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Fira Code Light';">THE WEDDING OF</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:75px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:75px;font-family:'HeyMagnolia';">Hikmah &amp; Fajri</SPAN></SPAN></DIV></div>
+HTMLText_D01AE885_C4B0_C130_41E2_65FE78A8793F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:41px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#2b1c00;font-size:41px;font-family:'HeyMagnolia';">Wedding Gallery</SPAN></SPAN></DIV></div>
+HTMLText_D0EFFFAC_C4B1_5F70_41E0_F0284118FF10.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#160601;font-size:14px;font-family:Tahoma, Geneva, sans-serif;">Help us to capture the moment by uploading photos of our wedding day to your instagram using the hashtag</SPAN></SPAN></DIV></div>
+HTMLText_D45AA25F_C491_C1D0_41DC_D3A61C0D2069_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.5px;font-family:'Fira Code Light';">THE WEDDING OF</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37.5px;font-family:'HeyMagnolia';">Hikmah </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37.5px;font-family:'HeyMagnolia';">&amp;</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37.5px;font-family:'HeyMagnolia';"> Fajri</SPAN></SPAN></DIV></div>
+HTMLText_D01AE885_C4B0_C130_41E2_65FE78A8793F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:42px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#2b1c00;font-size:42px;font-family:'HeyMagnolia';">Wedding Gallery</SPAN></SPAN></DIV></div>
+HTMLText_D0EFFFAC_C4B1_5F70_41E0_F0284118FF10_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#160601;font-size:16px;font-family:Tahoma, Geneva, sans-serif;">Help us to capture the moment by uploading photos of our wedding day to your instagram using the hashtag</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = wedding desain 1
